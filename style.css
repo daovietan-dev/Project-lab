@@ -1,0 +1,27 @@
+.d-block {
+    height: 60vh;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+    padding: 2rem;
+    justify-content: space-between;
+}
+
+footer ul {
+    display: flex;
+    gap: 10px;
+    list-style: inside none;
+    margin: 0;
+    padding-left: 1rem;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
